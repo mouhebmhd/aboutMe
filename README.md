@@ -11,6 +11,14 @@ I'm a Full Stack JS Developer, Code Instructor, and AI & ML enthusiast based in 
 
 Hello, I'm Mouheb Mehdoui, a dedicated Full Stack JS Developer with a passion for web development, Natural Language Processing (NLP), and the limitless possibilities of artificial intelligence and machine learning.
 
+## Skills
+
+- **Frontend**: React.js, HTML, HTML5, CSS, CSS3, Bootstrap
+- **Backend**: Node.js, Express.js, MongoDB
+- **Database**: SQL (Structured Query Language)
+- **Modeling**: UML (Unified Modeling Language)
+- **Artificial Intelligence**: Python, JavaScript
+
 ## Professional Journey
 
 Currently, I am actively contributing to the tech world as a Full Stack JS Developer at WeeCode, where I thrive in crafting innovative web solutions and bringing ideas to life through code. In this role, I get to explore the dynamic landscape of web technologies and create user-centric experiences.
